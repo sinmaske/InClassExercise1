@@ -16,7 +16,7 @@ public class CardTrick {
 
     public static void main(String[] args) {
         Card[] hand = new Card[7];
-
+        
         // Fill the hand with random cards
         for (int i = 0; i < hand.length; i++) {
             Card card = new Card();
@@ -67,5 +67,6 @@ public class CardTrick {
         System.out.println("My hobbies:");
         System.out.println("-- I love music as i play tabla.");
         //this comment was added on github
+        //I am done
     }
 }
