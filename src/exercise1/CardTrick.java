@@ -66,5 +66,6 @@ public class CardTrick {
         System.out.println();
         System.out.println("My hobbies:");
         System.out.println("-- I love music as i play tabla.");
+        //this comment was added on github
     }
 }
